@@ -20,7 +20,7 @@ import pyttsx3
 import http.client as hype
 
 Window.size = (320, 568)
-appId = 'APER4E-58XJGHAVAK'  # get the wolfram alpha app id
+appId = ''  # get the wolfram alpha app id
 
 
 class MainApp(MDApp):
